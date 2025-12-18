@@ -1,0 +1,3 @@
+Dice Game — Predict & Exploit Weak Randomness
+
+This challenge focuses on blockchain randomness pitfalls. The provided Dice Game contract uses block hashes as a source of randomness, which is predictable on Ethereum. Your task is to write an attacking contract that predicts the outcome and only plays when it will win. This teaches how weak randomness can be manipulated on-chain and the importance of secure randomness solutions.
